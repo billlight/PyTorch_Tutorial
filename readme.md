@@ -7,7 +7,7 @@
 1. https://github.com/tensor-yu/PyTorch_Tutorial/tree/master/Data<br/>
 2. QQ群：671103375(已满) 773031536 <br/>
 
-
+  
 # 2.环境配置
 代码在以下两种环境测试过：<br/>
 1. win10 64位 + python3.5 + pytorch==0.4.0 <br/>
